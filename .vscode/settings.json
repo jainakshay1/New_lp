@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9156aa47-68d4-4448-8f56-8412ed6e25d5/AppServices/subscriptions/9156aa47-68d4-4448-8f56-8412ed6e25d5/resourceGroups/AZ-RG-webappwork-Dev-01/providers/Microsoft.Web/sites/akjlpfront",
+    "appService.deploySubpath": "front_lp"
+}
